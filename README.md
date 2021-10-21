@@ -38,8 +38,11 @@ public void restoreField(View view)
     TextView nameView = (TextView) findViewById(R.id.saveTextView);
     nameView.setText(name);
 }
+
 Проверяем
+
 ![Альтернативный текст](/rsc/rap.png)
 
-#Гослинг
+# Гослинг
+
 ![Альтернативный текст](/rsc/2.jpg)
